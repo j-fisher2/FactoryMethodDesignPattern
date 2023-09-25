@@ -13,3 +13,5 @@ For this assignment, the featured client was only interested in the production o
 
 
 ![image](https://github.com/j-fisher2/FactoryMethodDesignPattern/assets/113472699/53fe377e-f2a2-488c-b2a5-db807e8ef1a8)
+
+![Screenshot (567)](https://github.com/j-fisher2/FactoryMethodDesignPattern/assets/113472699/d401a189-f767-4585-9538-154684a86fb3)
